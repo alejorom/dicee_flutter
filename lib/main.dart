@@ -11,7 +11,7 @@ void main() {
           title: const Center(child: Text('Dicee')),
           backgroundColor: Colors.red,
         ),
-        body: DicePage(),
+        body: const DicePage(),
       ),
     ),
   );
